@@ -75,4 +75,4 @@ MIT
 
 ## Donations
 - If you use this bot to make your server management less of a hassle, i greatly appreciate any donations :)
-- <script src="https://liberapay.com/Debi-sys/widgets/button.js"></script>
+<script src="https://liberapay.com/Debi-sys/widgets/button.js"></script>
