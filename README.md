@@ -72,3 +72,7 @@ The bot triggers a cleanup run 10s after login and then every 24 hours.
 
 ## License
 MIT
+
+## Donations
+- If you use this bot to make your server management less of a hassle, i greatly appreciate any donations :)
+- <script src="https://liberapay.com/Debi-sys/widgets/button.js"></script>
