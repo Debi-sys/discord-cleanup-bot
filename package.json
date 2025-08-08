@@ -1,0 +1,27 @@
+{
+  "name": "discord-cleanup-bot",
+  "version": "1.0.0",
+  "description": "Auto-kick inactive unverified users and low-engagement verified users.",
+  "main": "src/bot.js",
+  "scripts": {
+    "start": "node src/bot.js"
+  },
+  "engines": {
+    "node": ">=18.17.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "moderation",
+    "cleanup"
+  ],
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  }
+}
