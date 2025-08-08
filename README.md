@@ -76,5 +76,5 @@ MIT
 
 If you find this bot useful, consider supporting development!
 
-<script src="https://liberapay.com/Debi-sys/widgets/button.js"></script>
+
 <noscript><a href="https://liberapay.com/Debi-sys/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
